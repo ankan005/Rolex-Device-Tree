@@ -1,2 +1,2 @@
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/full_rolex.mk
+    $(LOCAL_DIR)/dot_rolex.mk
